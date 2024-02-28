@@ -6,6 +6,7 @@
     font-family: "Sometype Mono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
+    left:-100%;
 }
 
 body{
